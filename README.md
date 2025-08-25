@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ![marc2h9's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc2h9&show_icons=true&theme=react)
-<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
